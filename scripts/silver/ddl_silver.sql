@@ -1,11 +1,11 @@
 /*
 ==================================================================================
-DDL Script: Create Bronze Tables
+DDL Script: Create Silver Tables
 ==================================================================================
 Script Purpose:
-    This script ccreates tables in the 'bronze' schema, dropping exits tables
+    This script ccreates tables in the 'silver' schema, dropping exits tables
     is they already exist.
-  Run this script to re-define the DDL structure of the 'bronze' Tables
+  Run this script to re-define the DDL structure of the 'silver' Tables
 ==================================================================================
 */
 
